@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @GuanzhenQian2004, a student 
-- 👀 I’m interested in network engineering
-- 🌱 I’m currently learning CISCO cybersecurity
-- 📫 How to reach me : guanzhenqian2004@gmail.com
+- 👋 Hi, I’m Steven
+- 📫 How to reach me : uen9ke@virginia.edu
+- Current Computer Science student at University of Virginia
 
 <!---
 GuanzhenQian2004/GuanzhenQian2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
